@@ -5,14 +5,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3b01521b-4377-45a5-9bfd-9ff635e4452d" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/application.properties.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/db-api.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docker-compose.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/application.properties.properties" beforeDir="false" afterPath="$PROJECT_DIR$/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/global/1262" beforeDir="false" afterPath="$PROJECT_DIR$/data/global/1262" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/global/pg_control" beforeDir="false" afterPath="$PROJECT_DIR$/data/global/pg_control" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/pg_stat_tmp/db_0.stat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/pg_stat_tmp/db_13465.stat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/pg_stat_tmp/global.stat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/pg_wal/000000010000000000000001" beforeDir="false" afterPath="$PROJECT_DIR$/data/pg_wal/000000010000000000000001" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/postmaster.pid" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
